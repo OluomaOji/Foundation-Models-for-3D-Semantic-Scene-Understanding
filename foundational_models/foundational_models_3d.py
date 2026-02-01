@@ -1,3 +1,21 @@
+"""
+Foundation Models for 3D Semantic Scene Understanding
+Author: Oluoma
+
+This project integrates modern vision foundation models
+to perform semantic segmentation and monocular depth estimation
+from a single RGB image.
+
+Research Foundations:
+- Depth Anything V2:
+  https://arxiv.org/pdf/2406.09414
+
+- Segment Anything Model 2 (SAM 2):
+  https://arxiv.org/abs/2408.00714
+
+This is an engineering and systems-level implementation
+built on top of publicly released research and checkpoints.
+"""
 import cv2
 import numpy as np
 import matplotlib.pyplot as plt
