@@ -1,0 +1,7 @@
+opencv-python
+numpy
+scikit-image
+scikit-learn
+matplotlib
+timm
+# conda install pytorch torchvision torchaudio pytorch-cuda=12.1 -c pytorch -c nvidia
